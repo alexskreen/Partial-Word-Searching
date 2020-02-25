@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/partial-word-searching/obj/Debug/netcoreapp2.2/PartialWordSearching.csprojAssemblyReference.cache
+/Users/Guest/Desktop/partial-word-searching/obj/Debug/netcoreapp2.2/PartialWordSearching.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/partial-word-searching/obj/Debug/netcoreapp2.2/PartialWordSearching.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/partial-word-searching/obj/Debug/netcoreapp2.2/PartialWordSearching.AssemblyInfo.cs
+/Users/Guest/Desktop/partial-word-searching/bin/Debug/netcoreapp2.2/PartialWordSearching.deps.json
+/Users/Guest/Desktop/partial-word-searching/bin/Debug/netcoreapp2.2/PartialWordSearching.runtimeconfig.json
+/Users/Guest/Desktop/partial-word-searching/bin/Debug/netcoreapp2.2/PartialWordSearching.runtimeconfig.dev.json
+/Users/Guest/Desktop/partial-word-searching/bin/Debug/netcoreapp2.2/PartialWordSearching.dll
+/Users/Guest/Desktop/partial-word-searching/bin/Debug/netcoreapp2.2/PartialWordSearching.pdb
+/Users/Guest/Desktop/partial-word-searching/obj/Debug/netcoreapp2.2/PartialWordSearching.dll
+/Users/Guest/Desktop/partial-word-searching/obj/Debug/netcoreapp2.2/PartialWordSearching.pdb
